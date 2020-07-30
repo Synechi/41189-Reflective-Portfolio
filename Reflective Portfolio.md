@@ -78,9 +78,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Blah, blah, blah
 
+This week I learned about:
+
+- A
+- B
+- C
+
 ### What insights have I gained?
 
 Blah, blah, blah
+
+This week I gained new insights about:
+
+- A
+- B
+- C
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
