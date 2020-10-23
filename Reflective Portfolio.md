@@ -1,5 +1,6 @@
 
 
+
 # My 41189 Reflective Portfolio - Evan Hunter 13248721
 
 ## Week 1 - Complex Adaptive Systems and Complexity in Social Worlds
@@ -156,118 +157,136 @@ The power law portion of the workshop has been the most insightful part for me t
 
 ### What have I learnt this week?
 
+Markov processes is a new topic I have learnt this week. The Markov model tracks how entities transition between states and the likelihood that an entity will transition. This is important for modelling as it can be applied to very simple concepts such as whether or not a student is bored to a country deciding if they should go to war.
+
 ### What do I 'now know' that I did not before?
+
+That there is a model for riots, in particular how we look at thresholds. Granovetter's riot model covers a very simple concept but is a very powerful model that helps predict the successful of social movements.  The model shows that the variety of thresholds is just as important as the average threshold as the variety has more impact over the chaining between thresholds.
 
 ### What insights have I gained?
 
-### What are (my/the) perceived strengths and weaknesses that I have observed?
+Random walks are a new concept I've learnt this week which have opened my eyes to the power of complex systems even more. Comparing the model to a real life example being the stock exchange is very useful in showing how many of the systems around us in our everyday life can be modeled.
+
+![enter image description here](https://i.imgur.com/drkqc2l.jpg)
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-### What would I do better next time and with what anticipated results?
+This week I struggled with understanding the solow growth model at first. I didn't understand the purpose of the equation but after reading over it a couple times I was finally able to understand that it's purpose is to calculate output so it can be compared to previous stages of growth.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-
+The broadcast model is very useful to me as it helps model an area in which I thought was impossible or very difficult to do. The spread of information or misinformation is very important as it shapes the way people view the world so being able to model and track how this information spreads is interesting. 
 
 ## Week 7 - Complexity and Emergent Behaviour Part 1
 
 ### What have I learnt this week?
 
+This week we covered three main topics:
+ - Segregation and Peer Effects
+ - Coordination and Culture
+ - Social Learning
+
+Social learning covers replicator dynamics which is a very interesting model which I will be applying to the group assignment. The purpose of the model is the track how individuals adopt successful traits from the population around them.
+
 ### What do I 'now know' that I did not before?
+
+How important and influencing culture is on our society. Culture can be broken down into a variety of characteristics that help define the differences between cultures. 
 
 ### What insights have I gained?
 
-### What are (my/the) perceived strengths and weaknesses that I have observed?
+The emergence of culture is due to the result of many coordination games. Cultures are created based on the result of these games leading to a very large number of possible cultures. Through this I was able to understand how cultures differ,
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-### What would I do better next time and with what anticipated results?
+The replicator equation was the hardest challenge for me this week. Since I want to apply the replicator dynamics model to my assignment it was imperative for me to understand how this equation worked. I was able to do some self study as there is a lot of online resources that cover the equation in lots of detail.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
+The revisiting of the standing ovation model was very useful to me, as the first time round I didn't really understand it's purpose and how to use it. Now after covering the majority of models and having a better understanding of complex systems in general I have been able to comprehend this model. The standing ovation model is very interesting due to the fact it attempts to count for all the factors that could impact a standing ovation.
 
+![standing ovation](https://i.imgur.com/vGufhTg.png)
 
 ## Week 8 - Complexity and Emergent Behaviour Part 2
 
 ### What have I learnt this week?
 
+This week is the last week we covered models, after this week we will be working on our group assignments. In particular I found the colonel blotto game to be very interesting as it changed my view on how I look at different strategies. Looking for the best strategy may not put you in the most advantageous as you're not including what strategies your opponents are doing.
+
 ### What do I 'now know' that I did not before?
+
+How broken the US election system is! Just kidding, seeing how colonel blotto games can be applied to the complex systems in our everyday life is valuable. This really changed my view on how I approach different strategies.
 
 ### What insights have I gained?
 
-### What are (my/the) perceived strengths and weaknesses that I have observed?
+The prisoners' dilemma is an interesting game theory game that covers how players cooperate.
+![Prisoners' dilemma](https://i.imgur.com/tzgbs8J.jpg)
+This game shows the value of cooperation as both prisoners are collectively better off with both remaining silent and cooperating compared to any other option. This is their best options even if individually they would be better off confessing.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-### What would I do better next time and with what anticipated results?
-
-### What theory proved to be useful and why? What have I learnt from this?
+This week we submitted our draft report for feedback. I think my team did really well based on our constraints and I'm happy with our progress. We will need to work out how we plan on implementing our models with our topic but that will come in the next couple of weeks.
 
 
 ## Week 9 - Project Work
 
 ### What have I learnt this week?
 
+This week I researched into game theory as the model I'm covering in the final project in replicator dynamics. The replicator equation is used for evolutionary game theory to model how species adopt different traits. Game theory covers how competing players interact and strategise with each other via mathematical modeling. Game theory can be applied to real world scenarios to provide strategic advantage against other competitors.
+
 ### What do I 'now know' that I did not before?
 
-### What insights have I gained?
+How powerful graphing can be using python. This week I also did some basic research into how I want to implement the model into jupyter notebooks. Using a library such as Matplotlib I will be able to plot and visualise the model.
+![Matplotlib Example](https://i.imgur.com/xM9PHwW.png)
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
+My strengths is my competency with GitHub and jupyter notebooks as well as my knowledge in python. I struggled a lot with trying to wrap my head around to more complicated game theory topic.
+
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+The biggest challenge so far has been teaching my team how to properly use GitHub and jupyter notebooks. My entire team is new to both platforms so during our weekly meeting I was able to share my screen and teach them how to utilise GitHub and jupyter notebooks more effectively.
 
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
+Communicate with my team more. I think communication within our team needs to be improved as I believe we have issues with miscomunication. Going forward I will be hosting weekly stand ups/meetings to help accommodate for better communication as well as being active more in our communication channels.
 
 ## Week 10 - Project Work
 
 ### What have I learnt this week?
 
-### What do I 'now know' that I did not before?
-
-### What insights have I gained?
-
-### What are (my/the) perceived strengths and weaknesses that I have observed?
+No progress was made this week due to other assignments taking priority.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
+Unfortunately other assignments and studying took priority this week so I was unable to make any progress on the project.
+
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
+Better time management would be beneficial to help spread the workload around so I could have time to work on the project.
 
 
 ## Week 11 - Project Work
 
 ### What have I learnt this week?
 
-### What do I 'now know' that I did not before?
+This week I wanted to focus on learning how the replicator equation works. The equation is broken up into four sections, the growth rate, the frequency of a strategy, the fitness of a player following the strategy and lastly the average fitness for the population. 
+![replicator equation](https://i.imgur.com/GWWekqz.png)
 
-### What insights have I gained?
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
+My experience with programming has benefited me when it comes to implementing the model as I understand all the core concepts needed to utilise the different libraries needed.
+
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+This week during our meeting we discussed how we plan on implementing our models with our topic. For most of us in the group modeling is new to us so trying to implement it into jupyter notebooks was a challenge. Luckily I found a good resource online to helped me with examples which I shared with my group.
 
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
-
+Work on the project more and assist my team members. This will reduce the workload and stress closer to the due date and also help my team members complete their sections of the project.
 
 ## Week 12 - Conclusions
 
-### What have I learnt this week?
+### Conclusions
 
-### What do I 'now know' that I did not before?
-
-### What insights have I gained?
-
-### What are (my/the) perceived strengths and weaknesses that I have observed?
-
-### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
-### What would I do better next time and with what anticipated results?
-
-### What theory proved to be useful and why? What have I learnt from this?
-
+This subject was very interesting from a technical persons point of view. We covered a lot of topics that were not technical but the models used can be just as easily implemented into technical areas which I found very intriguing. Knowing how to model complex systems will be a very important skill in my future career as technology progresses. Thank you for the opportunity to learn this content as it has changed how I look at everything.
